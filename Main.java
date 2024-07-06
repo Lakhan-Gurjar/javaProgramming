@@ -4,5 +4,7 @@ public class Main {
     }
 }
 /*
-public (in first line) :- public is an access modifier which allows to access the class from anywhere
+1. public (in first line) :- public is an access modifier which allows to access the class from anywhere
+2. class :- It is a name group of properties and functions
+
 */
