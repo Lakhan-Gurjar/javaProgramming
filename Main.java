@@ -12,5 +12,6 @@ public class Main {
 6. void :- It is a keyword used when we do not want to return anything from a method/function
 7. main :- It is the name of method from where execution starts 
 8. String[] args :- It is a command line argument of String type array
+9. System (in third line) :- It is a final class defined in java.lang package
 
 */
