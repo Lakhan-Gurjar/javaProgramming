@@ -13,5 +13,6 @@ public class Main {
 7. main :- It is the name of method from where execution starts 
 8. String[] args :- It is a command line argument of String type array
 9. System (in third line) :- It is a final class defined in java.lang package
+10. out :- It is a variable of PrintStream type which is public and static member field of the System class
 
 */
