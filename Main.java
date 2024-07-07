@@ -11,5 +11,6 @@ public class Main {
 5. static :- It is a keyword which helps the main method to run without using objects
 6. void :- It is a keyword used when we do not want to return anything from a method/function
 7. main :- It is the name of method from where execution starts 
+8. String[] args :- It is a command line argument of String type array
 
 */
