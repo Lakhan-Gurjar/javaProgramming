@@ -49,7 +49,7 @@ public class operatorsAndBinaryNumberSystem {
         2. || (Logical OR)
         3. ! (Logical NOT)
 
-        ~~ Bincary Number System (base2)
+        ~~ Binary Number System (base2)
         -> convert binary to decimal
         -> convert decimal to binary
 
